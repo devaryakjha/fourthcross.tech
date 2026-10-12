@@ -7,7 +7,7 @@
   dogfood: true
   language: Go
   license:
-  stars: 209
+  stars: 207
   topics:
     - aws
     - aws-s3
@@ -61,7 +61,7 @@
   license:
   stars: 11
   topics: []
-  updated_at: "2026-10-05T08:13:32Z"
+  updated_at: "2026-10-10T17:13:31Z"
   github_uri: rhnvrm/stock-market-circulars
   repo_url: https://github.com/rhnvrm/stock-market-circulars
   homepage_url: https://exchangecirculars.com/

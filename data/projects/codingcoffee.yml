@@ -7,14 +7,14 @@
   dogfood: false
   language: Go
   license: AGPL-3.0
-  stars: 4
+  stars: 5
   topics:
     - ai
     - code-execution
     - sandbox
     - vm
     - web-development
-  updated_at: "2026-10-05T06:57:23Z"
+  updated_at: "2026-10-12T08:32:33Z"
   github_uri: getdummie/dummie
   repo_url: https://github.com/getdummie/dummie
   homepage_url: https://dummie.dev

@@ -7,12 +7,12 @@
   dogfood: false
   language: Go
   license: GPL-3.0
-  stars: 4508
+  stars: 4515
   topics:
     - dns
     - dns-client
     - doh
-  updated_at: "2026-09-01T09:47:04Z"
+  updated_at: "2026-10-12T05:29:27Z"
   github_uri: mr-karan/doggo
   repo_url: https://github.com/mr-karan/doggo
   homepage_url: https://doggo.mrkaran.dev/
@@ -48,7 +48,7 @@
   dogfood: false
   language: Go
   license: MIT
-  stars: 161
+  stars: 160
   topics:
     - gitops
     - kubernetes

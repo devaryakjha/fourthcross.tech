@@ -7,7 +7,7 @@
   dogfood: false
   language: Go
   license: MIT
-  stars: 1184
+  stars: 1183
   topics:
     - cli
     - data-visualization
