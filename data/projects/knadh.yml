@@ -7,7 +7,7 @@
   dogfood: true
   language: CSS
   license: MIT
-  stars: 5532
+  stars: 5534
   topics:
     - component-library
     - css
@@ -20,7 +20,7 @@
     - web-ui
     - web-ui-framework
     - webcomponents
-  updated_at: "2026-10-10T09:59:03Z"
+  updated_at: "2026-10-19T05:32:49Z"
   github_uri: knadh/oat
   repo_url: https://github.com/knadh/oat
   homepage_url: https://oat.ink
@@ -49,7 +49,7 @@
     - toml
     - viper
     - yaml
-  updated_at: "2026-10-07T09:45:24Z"
+  updated_at: "2026-10-18T06:33:53Z"
   github_uri: knadh/koanf
   repo_url: https://github.com/knadh/koanf
   homepage_url:
@@ -63,7 +63,7 @@
   dogfood: false
   language: Go
   license: MIT
-  stars: 2830
+  stars: 2831
   topics:
     - dns
     - dns-server
@@ -84,7 +84,7 @@
   dogfood: false
   language: Python
   license: MIT
-  stars: 1174
+  stars: 1172
   topics:
     - exporter
     - static-site
@@ -106,7 +106,7 @@
   dogfood: false
   language: Go
   license: AGPL-3.0
-  stars: 988
+  stars: 986
   topics:
     - chat
     - chat-room
@@ -150,7 +150,7 @@
   dogfood: false
   language: HTML
   license: MIT
-  stars: 427
+  stars: 426
   topics:
     - blog
     - blog-theme
@@ -232,7 +232,7 @@
     - pool
     - smtp
     - smtp-client
-  updated_at: "2026-10-06T07:25:40Z"
+  updated_at: "2026-10-15T11:42:12Z"
   github_uri: knadh/smtppool
   repo_url: https://github.com/knadh/smtppool
   homepage_url:
@@ -403,7 +403,7 @@
   dogfood: true
   language: Go
   license: BSD-2-Clause
-  stars: 80
+  stars: 81
   topics:
     - mysql
     - postgresql
@@ -501,7 +501,7 @@
   dogfood: false
   language: Zig
   license: MIT
-  stars: 50
+  stars: 51
   topics:
     - cli
     - csv
@@ -544,7 +544,7 @@
   dogfood: false
   language: Rust
   license: Apache-2.0
-  stars: 46
+  stars: 47
   topics:
     - element
     - matrix

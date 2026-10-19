@@ -7,7 +7,7 @@
   dogfood: false
   language: Go
   license: GPL-3.0
-  stars: 4515
+  stars: 4521
   topics:
     - dns
     - dns-client
@@ -26,7 +26,7 @@
   dogfood: true
   language: Go
   license: MIT
-  stars: 212
+  stars: 213
   topics:
     - alerting
     - alertmanager
