@@ -7,7 +7,7 @@
   dogfood: true
   language: Python
   license:
-  stars: 171
+  stars: 172
   topics: []
   updated_at: "2026-03-11T10:44:29Z"
   github_uri: zerodha/frappe-attachments-s3
