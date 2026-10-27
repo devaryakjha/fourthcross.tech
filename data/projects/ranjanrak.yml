@@ -7,7 +7,7 @@
   dogfood: false
   language: Python
   license: MIT
-  stars: 161
+  stars: 163
   topics:
     - implied-volatility
     - option-chain-stream

@@ -28,7 +28,7 @@
   license: MIT
   stars: 130
   topics: []
-  updated_at: "2025-07-31T10:30:35Z"
+  updated_at: "2026-10-22T09:25:27Z"
   github_uri: ajinasokan/autopilot
   repo_url: https://github.com/ajinasokan/autopilot
   homepage_url:
@@ -42,7 +42,7 @@
   dogfood: true
   language: Dart
   license: MIT
-  stars: 93
+  stars: 94
   topics: []
   updated_at: "2026-03-30T08:58:43Z"
   github_uri: ajinasokan/flutter_fgbg
@@ -58,7 +58,7 @@
   dogfood: true
   language: Go
   license: MIT
-  stars: 85
+  stars: 86
   topics: []
   updated_at: "2025-05-22T09:32:07Z"
   github_uri: ajinasokan/apkc
@@ -74,14 +74,14 @@
   dogfood: true
   language: Dart
   license: MIT
-  stars: 69
+  stars: 70
   topics:
     - curl
     - flutter
     - http
     - libcurl
     - quic
-  updated_at: "2026-09-08T05:45:54Z"
+  updated_at: "2026-10-22T09:28:03Z"
   github_uri: ajinasokan/flutter_curl
   repo_url: https://github.com/ajinasokan/flutter_curl
   homepage_url:
